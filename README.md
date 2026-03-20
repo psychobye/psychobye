@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-6366F1?style=for-the-badge&logo=hackaday&logoColor=white" alt="Reverse Engineering" />
   <img src="https://img.shields.io/badge/Pawn-F59E0B?style=for-the-badge" alt="Pawn" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android" />
