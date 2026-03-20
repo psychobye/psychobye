@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=74C9FF&text=psychobye&textBg=false&animation=twinkling&fontColor=FFFFFF" alt="Header" width="100%" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=600&size=24&duration=2800&pause=900&color=74C9FF&center=true&vCenter=true&width=900&lines=web-dev;fullstack;juniour;javascript;typescript;react;node" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
