@@ -12,12 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pawn-F59E0B?style=for-the-badge" alt="Pawn" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android" />
-  <img src="https://img.shields.io/badge/GTA%3ASA-FCAF17?style=for-the-badge&logo=rockstargames&logoColor=black" alt="GTA:SA" />
   <img src="https://img.shields.io/badge/UI%2FUX-22C55E?style=for-the-badge&logo=materialdesign&logoColor=white" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/Modding-FACC15?style=for-the-badge&logo=gamejolt&logoColor=black" alt="Modding" />
 </p>
 
 <p>
